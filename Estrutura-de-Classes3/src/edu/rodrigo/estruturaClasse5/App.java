@@ -1,3 +1,4 @@
+package edu.rodrigo.estruturaClasse5; //Exemplos para criar package no Java
 public class App {
     public static void main(String[] args) throws Exception {
         String meuNome = "Rodrigo";
